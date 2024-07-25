@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: a;
+    src: url(../src/assets/KFOlCnqEu92Fr1MmEU9fBBc4\ \(1\).ttf);
+}
+*
+{
+    background-color: #0A3CCE;
+}
+button
+{
+    font-family: a;
+}
+h1
+{
+    font-family: a;
+}
+p
+{
+    font-family: b;
+}
+
+  
